@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330056426111",
+    "project_id": "truenet-f457a",
+    "storage_bucket": "truenet-f457a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330056426111:android:cf532225649efcae39954a",
+        "android_client_info": {
+          "package_name": "com.example.true_net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330056426111-ub8ivbik8872sco0ecps355921lqo4jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ujCJftMD5nN3R_Gp__Ydr3YvHHZwJDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330056426111-ub8ivbik8872sco0ecps355921lqo4jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
