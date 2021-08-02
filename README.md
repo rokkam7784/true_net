@@ -1,4 +1,4 @@
-### TrueNet
+# TrueNet
 
 A TRUE messaging app using Flutter and Firebase 
 
