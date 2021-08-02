@@ -3,7 +3,4 @@
 A TRUE messaging app using Flutter and Firebase 
 
 
-<img src="https://github.com/rokkam7784/true_net/blob/main/images/TrueNet-noBg.png" alt="TrueNet Logo" style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;" />
+<img src="https://github.com/rokkam7784/true_net/blob/main/images/TrueNet-noBg.png" alt="TrueNet Logo" />
