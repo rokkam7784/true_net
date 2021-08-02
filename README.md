@@ -10,6 +10,10 @@
 
 <br><br>
 <br>
-<img src="https://github.com/rokkam7784/true_net/blob/main/images/TrueNetSS/SignIn.jpeg" alt="SignIn" width="200"/>
+
+<p float="left">
+ <img src="https://github.com/rokkam7784/true_net/blob/main/images/TrueNetSS/SignIn.jpeg" alt="SignIn" width="200"/>
 
 <img src="https://github.com/rokkam7784/true_net/blob/main/images/TrueNetSS/SignIn.jpeg" alt="SignIn" width="200"/>
+
+</p>
