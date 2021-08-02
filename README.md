@@ -4,6 +4,7 @@ A TRUE messaging app using Flutter and Firebase
 
 
 <p align="center">
+  ## A TRUE messaging app using Flutter and Firebase 
   <img src="https://github.com/rokkam7784/true_net/blob/main/images/TrueNet-noBg.png" alt="TrueNet Logo" />
 </p>
 <!-- <img src="https://github.com/rokkam7784/true_net/blob/main/images/TrueNet-noBg.png" alt="TrueNet Logo" /> -->
